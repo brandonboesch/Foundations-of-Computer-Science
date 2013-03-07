@@ -1,0 +1,94 @@
+/*  Student information for assignment
+*
+*  On my honor, Jesse Campos , Zachary Tschirhart.
+*  this programming assignment is my own work.
+*
+*  Student #1: 
+*  Name #1: Jesse Campos
+*  EID #1: jpc639
+*  email address #1: jesse.campos@mail.utexas.edu
+*  TA name #1: Xiuming
+*  Unique course ID #1: 54022
+*  programming hours #1: 20
+*  
+*  *  Student #2: 
+*  Name #2: Zachary Tschirhart
+*  EID #2: zst75
+*  email address #2: ztschir@gmail.com
+*  TA name #2: Xiuming
+*  Unique course ID #2:54022
+*  programming hours #2: 20
+*/
+
+//slip days info
+/*
+Slip days used on this assignment: 0
+Slip days I think I have used for the term thus far: 1
+*/
+
+
+File 1: Size 92 KB
+
+	Time to add the elements in the text to this set: elapsed time: 0.992266992 seconds.
+	Number of distinct words in this text 2866
+	
+	Time to add the elements in the text to this set: elapsed time: 0.203904121 seconds.
+	Number of distinct words in this text 2866
+	
+	Time to add the elements in the text to this set: elapsed time: 0.05265725 seconds.
+	Number of distinct words in this text 2866
+	
+	Time to add the elements in the text to this set: elapsed time: 0.081084887 seconds.
+	Number of distinct words in this text 2866
+
+
+
+File 2: Size 326 KB
+
+	Time to add the elements in the text to this set: elapsed time: 19.53150314 seconds.
+	Number of distinct words in this text 9394
+	
+	Time to add the elements in the text to this set: elapsed time: 2.146136544 seconds.
+	Number of distinct words in this text 9394
+	
+	Time to add the elements in the text to this set: elapsed time: 0.089276692 seconds.
+	Number of distinct words in this text 9394
+	
+	Time to add the elements in the text to this set: elapsed time: 0.142956014 seconds.
+	Number of distinct words in this text 9394
+	
+
+
+File 3: Size 873 KB
+
+	Time to add the elements in the text to this set: elapsed time: 197.95613329 seconds.
+	Number of distinct words in this text 20116
+	
+	Time to add the elements in the text to this set: elapsed time: 7.24968035 seconds.
+	Number of distinct words in this text 20116
+	
+	Time to add the elements in the text to this set: elapsed time: 0.201329316 seconds.
+	Number of distinct words in this text 20116
+	
+	Time to add the elements in the text to this set: elapsed time: 0.24628131 seconds.
+	Number of distinct words in this text 20116
+ 
+    *  What do you think the Big O of the two processText methods are for each kind of Set?
+    
+    Sorted: O(N^2.75)
+    Unsorted: O(N)
+    HashSet: O(log(N))
+    TreeSet: O(log(N))
+    
+    
+    * Can Big O be meaningful when the data type sent to a method can vary? How do you address this problem?
+    Yes, to a point.  It gives a rough estimate but it can still vary greatly depending on the data type.  Specialize the methods for each task.
+    
+    * What are the Big Os of your add methods? What do you think the Big O of the HashSet and TreeSet add methods are?
+    
+    Sorted: O(N^2)
+    Unsorted: O(N)
+    HashSet:  O(log(N))
+    TreeSet:  O(log(N))
+    * What are the differences between HashSet and TreeSet when printing out the contents of the Set?
+    Hash set prints the contents unordered.  Tree set prints the contents in sorted order.

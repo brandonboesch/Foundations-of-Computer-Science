@@ -1,0 +1,151 @@
+ /*  Student information for assignment
+  *
+  *  Student Information
+  *  Name: Zachary Tschirhart
+  *  EID: ZST75
+  *  email address: ztschir@gmail.com
+  *  TA name: Xiuming
+  *  programming hours: 8
+  */
+
+Answer's to questions file
+
+Random: It took an average of 0.0035172458000000003 seconds to add 1000 items to the BST.
+Random: The tree has a height of 21 rows when it has 1000 items.
+Random: The tree has a size of 1000 items when 1000 supposed to be added
+ 
+Random: It took an average of 8.897902E-4 seconds to add 2000 items to the BST.
+Random: The tree has a height of 23 rows when it has 2000 items.
+Random: The tree has a size of 2000 items when 2000 supposed to be added
+ 
+Random: It took an average of 0.0017258379000000001 seconds to add 4000 items to the BST.
+Random: The tree has a height of 25 rows when it has 4000 items.
+Random: The tree has a size of 4000 items when 4000 supposed to be added
+ 
+Random: It took an average of 0.0036208954 seconds to add 8000 items to the BST.
+Random: The tree has a height of 29 rows when it has 8000 items.
+Random: The tree has a size of 8000 items when 8000 supposed to be added
+ 
+Random: It took an average of 0.0053511517 seconds to add 16000 items to the BST.
+Random: The tree has a height of 32 rows when it has 16000 items.
+Random: The tree has a size of 15999 items when 16000 supposed to be added
+ 
+Random: It took an average of 0.0135359912 seconds to add 32000 items to the BST.
+Random: The tree has a height of 34 rows when it has 32000 items.
+Random: The tree has a size of 31999 items when 32000 supposed to be added
+ 
+Random: It took an average of 0.0349395253 seconds to add 64000 items to the BST.
+Random: The tree has a height of 36 rows when it has 64000 items.
+Random: The tree has a size of 63999 items when 64000 supposed to be added
+ 
+Random: It took an average of 0.08783736220000002 seconds to add 128000 items to the BST.
+Random: The tree has a height of 41 rows when it has 128000 items.
+Random: The tree has a size of 127998 items when 128000 supposed to be added
+ 
+Random: It took an average of 0.2510347869999999 seconds to add 256000 items to the BST.
+Random: The tree has a height of 44 rows when it has 256000 items.
+Random: The tree has a size of 255993 items when 256000 supposed to be added
+ 
+Random: It took an average of 0.6681783545 seconds to add 512000 items to the BST.
+Random: The tree has a height of 47 rows when it has 512000 items.
+Random: The tree has a size of 511969 items when 512000 supposed to be added
+ 
+Random: It took an average of 1.4976778534000001 seconds to add 1024000 items to the BST.
+Random: The tree has a height of 49 rows when it has 1024000 items.
+Random: The tree has a size of 1023878 items when 1024000 supposed to be added
+ 
+In Order: It took an average of 0.007099408999999999 seconds to add 1000 items to the BST.
+In Order: The tree has a height of 1000 rows when it has 1000 items.
+In Order: The tree has a size of 1000 items when 1000 supposed to be added.
+ 
+In Order: It took an average of 0.010734998700000001 seconds to add 2000 items to the BST.
+In Order: The tree has a height of 2000 rows when it has 2000 items.
+In Order: The tree has a size of 2000 items when 2000 supposed to be added.
+ 
+In Order: It took an average of 0.0480190486 seconds to add 4000 items to the BST.
+In Order: The tree has a height of 4000 rows when it has 4000 items.
+In Order: The tree has a size of 4000 items when 4000 supposed to be added.
+ 
+In Order: It took an average of 0.18060108860000001 seconds to add 8000 items to the BST.
+In Order: The tree has a height of 8000 rows when it has 8000 items.
+In Order: The tree has a size of 8000 items when 8000 supposed to be added.
+ 
+In Order: It took an average of 1.1171417415 seconds to add 16000 items to the BST.
+In Order: The tree has a height of 16000 rows when it has 16000 items.
+In Order: The tree has a size of 16000 items when 16000 supposed to be added.
+ 
+In Order: It took an average of 5.5483583240000005 seconds to add 32000 items to the BST.
+In Order: The tree has a height of 32000 rows when it has 32000 items.
+In Order: The tree has a size of 32000 items when 32000 supposed to be added.
+ 
+In Order: It took an average of 30.0992920158 seconds to add 64000 items to the BST.
+In Order: The tree has a height of 64000 rows when it has 64000 items.
+In Order: The tree has a size of 64000 items when 64000 supposed to be added.
+ 
+In Order: It took an average of 140.1911333999 seconds to add 128000 items to the BST.
+In Order: The tree has a height of 128000 rows when it has 128000 items.
+In Order: The tree has a size of 128000 items when 128000 supposed to be added.
+
+In Order: It took an average of 607.4996909525 seconds to add 256000 items to the BST.
+In Order: The tree has a height of 256000 rows when it has 256000 items.
+In Order: The tree has a size of 256000 items when 256000 supposed to be added.
+ 
+In Order: It took an average of 2410.964854235 seconds to add 512000 items to the BST.
+In Order: The tree has a height of 512000 rows when it has 512000 items.
+In Order: The tree has a size of 512000 items when 512000 supposed to be added.
+ 
+In Order: It took an average of 9251.4425541245 seconds to add 1024000 items to the BST.
+In Order: The tree has a height of 1024000 rows when it has 1024000 items.
+In Order: The tree has a size of 1024000 items when 1024000 supposed to be added.
+ 
+In Order TreeSet: It took an average of 0.0076105717000000015 seconds to add 1000 items to the BST.
+In Order TreeSet: The tree has a size of 1000 items when 1000 supposed to be added.
+ 
+In Order TreeSet: It took an average of 8.509562999999999E-4 seconds to add 2000 items to the BST.
+In Order TreeSet: The tree has a size of 2000 items when 2000 supposed to be added.
+ 
+In Order TreeSet: It took an average of 0.0020563663 seconds to add 4000 items to the BST.
+In Order TreeSet: The tree has a size of 4000 items when 4000 supposed to be added.
+ 
+In Order TreeSet: It took an average of 0.0026437307 seconds to add 8000 items to the BST.
+In Order TreeSet: The tree has a size of 8000 items when 8000 supposed to be added.
+ 
+In Order TreeSet: It took an average of 0.0040248703 seconds to add 16000 items to the BST.
+In Order TreeSet: The tree has a size of 16000 items when 16000 supposed to be added.
+ 
+In Order TreeSet: It took an average of 0.006680821500000001 seconds to add 32000 items to the BST.
+In Order TreeSet: The tree has a size of 32000 items when 32000 supposed to be added.
+ 
+In Order TreeSet: It took an average of 0.014410616900000001 seconds to add 64000 items to the BST.
+In Order TreeSet: The tree has a size of 64000 items when 64000 supposed to be added.
+ 
+In Order TreeSet: It took an average of 0.03223552960000001 seconds to add 128000 items to the BST.
+In Order TreeSet: The tree has a size of 128000 items when 128000 supposed to be added.
+ 
+In Order TreeSet: It took an average of 0.0742688531 seconds to add 256000 items to the BST.
+In Order TreeSet: The tree has a size of 256000 items when 256000 supposed to be added.
+ 
+In Order TreeSet: It took an average of 0.15979215129999996 seconds to add 512000 items to the BST.
+In Order TreeSet: The tree has a size of 512000 items when 512000 supposed to be added.
+ 
+In Order TreeSet: It took an average of 0.6417706644000001 seconds to add 1024000 items to the BST.
+In Order TreeSet: The tree has a size of 1024000 items when 1024000 supposed to be added.
+
+ 
+ How do these times compare to the times it took for you BinarySearchTree class
+when inserting integers in sorted order? 
+
+	When adding to the TreeSet, the average time was a lot faster then when adding to the BST.
+
+What do you think is the cause for these differences? 
+
+	The cause is because we are using a naive algorithm to add to the BST, 
+	so the tree becomes one sided and very high then it is basically like adding to a Linked List O(N).
+
+How do these times compare to the times it took for your BinarySearchTree class
+when inserting randomly distributed integers?
+
+	When adding Random integers the tree height stays at LogN height, so the add time is O(Log(N))
+	
+	
+ 

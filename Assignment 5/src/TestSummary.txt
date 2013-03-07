@@ -1,0 +1,11 @@
+For the Player Class we tested each of the different players like the humanPlayer method and computerPlayer method. We tested them by creating new human players and computer players and tested input and output by using the other getInput and getOutput methods. We found out we had a slight problem with our humanPlayer method, so running the tests became useful. The humanPlayer method failed on one test, but all the others passed.
+
+For the Code class, we had to test whether or not the compare function worked in our compare method. The testing of this method was very useful because of all the little issues we found in the process. That method failed several test at first, but we were able to fix them while we still had the method on our mind. The compare's tests consisted of passing char arrays to the method, then the other test's were just testing functionality.
+
+For the Board class, test's were really hard to make for the more upper level class. But testing was never-the-less important, because of all the little mistakes we made. The mistakes were mainly formatting, so we couldn't really test too much for that. but we were able to test the playAgain method, which passed the tests on the first try. It was very difficult trying to write any test's for the rest of the class though.
+
+For the Input class, we basicly just printed out the result of each method to visually see what was being returned. These tests were a very low level test on basic methods that had no complex features, so we did not stress too much on this method. 
+
+The Game class was a very simple class, so we decided there was no testing needed.
+Same with the MasterMindDriver class.
+

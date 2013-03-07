@@ -1,0 +1,59 @@
+A6.txt. Answers to assignment 6, CS307.
+
+Student information for assignment
+
+On <my|our> honor, <NAME1> and <NAME2>,
+this  assignment is <my|our> own work.
+
+Student 1:Number of slip days I am using on this assignment:
+Number of slip days I have used this semester:
+
+Student 2:Number of slip days I am using on this assignment:Number of slip days I have used this semester:
+
+Student #1:Name #1:EID #1:email address #1:TA name #1:
+Unique course ID #1:
+
+Student #2:Name #2:EID #2:email address #2:TA name #2:Unique course ID #2:
+
+Place your answers to all questions below.
+
+
+1.T(n^2 + 2n + 5)
+2.O(n^2)
+3.Best: T(2n^2 + 5n + 4)   Worst: T(7n^2 + 5n + 4)
+4.Best: n^2   Worst: n^2
+5.O(n^2)
+7.Yes, by not nesting the while loop in the for loop and instead just 
+		having a series of loops that would break if it is not a prime number.
+8.Both are the same O(n^2)
+9.Both are the same O(NlogN).
+10.160s
+11.60s
+12.20s
+13.25min
+14.0.1s
+15.135min
+16.90.9s
+
+
+method1 T(N) = 3n + 3
+method2 T(N) = 3n/2 + 3
+method3 T(N) = 3n^2 + 4n + 3
+method4 T(N) = 6n + 5
+
+method1 O( n )
+method2 O( n )
+method3 O( n^2 )
+method4 O( n )
+method5 O( n^3 )
+method6 O( nlog(n) )
+method7 O( n^2 )
+method8 O( n^3 )
+method9 O( log(log(n)) )
+method10 O( nlog(n) )
+method11 O( mnlog(n) + nlog(n) )
+
+
+
+
+
